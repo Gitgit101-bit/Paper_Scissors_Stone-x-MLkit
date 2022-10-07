@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.nuwarobotics.app.posedetectorsample"
+        applicationId "com.nuwarobotics.app.PaperScissorsStone"
         minSdkVersion 24
         targetSdkVersion 32
         versionCode 1
